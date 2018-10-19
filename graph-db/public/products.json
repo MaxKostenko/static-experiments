@@ -1,0 +1,28 @@
+{
+  "_embedded": {
+    "products": [
+      {
+        "type": "mobiel",
+        "_links": {
+          "self": {
+            "href": "/brands/KPN/products/mobiel"
+          },
+          "options": {
+            "href": "/options.json"
+          }
+        }
+      },
+      {
+        "type": "internet_and_tv",
+        "_links": {
+          "self": {
+            "href": "/brands/KPN/products/internet_and_tv"
+          },
+          "options": {
+            "href": "/options.json"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "defaults": {
+    "variant": "10",
+    "collections": {
+      "not-complete": {
+        "one-year": {
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "bestChoice": 4
+        },
+        "two-year": {
+          "variants": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "bestChoice": 10
+        }
+      },
+      "mobile-complete": {
+        "one-year": {
+          "variants": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "bestChoice": 16
+        },
+        "two-year": {
+          "variants": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "bestChoice": 22
+        }
+      },
+      "full-complete": {
+        "one-year": {
+          "variants": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "bestChoice": 28
+        },
+        "two-year": {
+          "variants": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "bestChoice": 34
+        }
+      }
+    }
+  },
+  "requires": [
+    "installation-service"
+  ],
+  "options": [
+    "product-spotify-premium"
+  ],
+  "variants": {
+    "1": {
+      "subscription": "one-year",
+      "product": "calls-only",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 14.5
+        }
+      }
+    },
+    "2": {
+      "subscription": "one-year",
+      "product": "1-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 21
+        }
+      }
+    },
+    "3": {
+      "subscription": "one-year",
+      "product": "3-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 27
+        }
+      }
+    },
+    "4": {
+      "subscription": "one-year",
+      "product": "10-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 31
+        }
+      }
+    },
+    "5": {
+      "subscription": "one-year",
+      "product": "25-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 37
+        }
+      }
+    },
+    "6": {
+      "subscription": "one-year",
+      "product": "50-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 80
+        }
+      }
+    },
+    "7": {
+      "subscription": "two-year",
+      "product": "calls-only",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 13.5
+        }
+      }
+    },
+    "8": {
+      "subscription": "two-year",
+      "product": "1-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 20
+        }
+      }
+    },
+    "9": {
+      "subscription": "two-year",
+      "product": "3-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 26
+        }
+      }
+    },
+    "10": {
+      "subscription": "two-year",
+      "product": "10-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 30
+        }
+      }
+    },
+    "11": {
+      "subscription": "two-year",
+      "product": "25-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 36
+        }
+      }
+    },
+    "12": {
+      "subscription": "two-year",
+      "product": "50-gb",
+      "completeStatus": "not-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 79
+        }
+      }
+    },
+    "13": {
+      "subscription": "one-year",
+      "product": "calls-only",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 9.5
+        }
+      }
+    },
+    "14": {
+      "subscription": "one-year",
+      "product": "1-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 16
+        }
+      }
+    },
+    "15": {
+      "subscription": "one-year",
+      "product": "3-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 22
+        }
+      }
+    },
+    "16": {
+      "subscription": "one-year",
+      "product": "10-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 26
+        }
+      }
+    },
+    "17": {
+      "subscription": "one-year",
+      "product": "25-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 32
+        }
+      }
+    },
+    "18": {
+      "subscription": "one-year",
+      "product": "50-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 75
+        }
+      }
+    },
+    "19": {
+      "subscription": "two-year",
+      "product": "calls-only",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 8.5
+        }
+      }
+    },
+    "20": {
+      "subscription": "two-year",
+      "product": "1-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 15
+        }
+      }
+    },
+    "21": {
+      "subscription": "two-year",
+      "product": "3-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 21
+        }
+      }
+    },
+    "22": {
+      "subscription": "two-year",
+      "product": "10-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 25
+        }
+      }
+    },
+    "23": {
+      "subscription": "two-year",
+      "product": "25-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 31
+        }
+      }
+    },
+    "24": {
+      "subscription": "two-year",
+      "product": "50-gb",
+      "completeStatus": "mobile-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 74
+        }
+      }
+    },
+    "25": {
+      "subscription": "one-year",
+      "product": "calls-only-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 9.5
+        }
+      }
+    },
+    "26": {
+      "subscription": "one-year",
+      "product": "2-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 16
+        }
+      }
+    },
+    "27": {
+      "subscription": "one-year",
+      "product": "6-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 22
+        }
+      }
+    },
+    "28": {
+      "subscription": "one-year",
+      "product": "20-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 26
+        }
+      }
+    },
+    "29": {
+      "subscription": "one-year",
+      "product": "50-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 32
+        }
+      }
+    },
+    "30": {
+      "subscription": "one-year",
+      "product": "100-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 75
+        }
+      }
+    },
+    "31": {
+      "subscription": "two-year",
+      "product": "calls-only-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 16,
+          "amount": 8.5
+        }
+      }
+    },
+    "32": {
+      "subscription": "two-year",
+      "product": "2-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 25,
+          "amount": 15
+        }
+      }
+    },
+    "33": {
+      "subscription": "two-year",
+      "product": "6-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 40,
+          "amount": 21
+        }
+      }
+    },
+    "34": {
+      "subscription": "two-year",
+      "product": "20-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 45,
+          "amount": 25
+        }
+      }
+    },
+    "35": {
+      "subscription": "two-year",
+      "product": "50-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 55,
+          "amount": 31
+        }
+      }
+    },
+    "36": {
+      "subscription": "two-year",
+      "product": "100-gb-complete",
+      "completeStatus": "full-complete",
+      "price": {
+        "perMonth": {
+          "old": 109,
+          "amount": 74
+        }
+      }
+    }
+  },
+  "products": {
+    "product-spotify-premium": {
+      "slug": "product-spotify-premium",
+      "price": {
+        "perMonth": {
+          "old": 9.99,
+          "amount": 8.99
+        }
+      }
+    },
+    "installation-service": {
+      "slug": "installation-service",
+      "price": {
+        "oneTime": {
+          "amount": 25
+        }
+      }
+    },
+    "calls-only": {
+      "internet": "0 GB",
+      "slug": "calls-only",
+      "callLimit": 150
+    },
+    "1-gb": {
+      "internet": "1 GB",
+      "slug": "1-gb",
+      "callLimit": 200
+    },
+    "3-gb": {
+      "internet": "3 GB",
+      "slug": "3-gb"
+    },
+    "10-gb": {
+      "internet": "10 GB",
+      "slug": "10-gb"
+    },
+    "25-gb": {
+      "internet": "25 GB",
+      "slug": "25-gb"
+    },
+    "50-gb": {
+      "internet": "50 GB",
+      "slug": "50-gb",
+      "international": true
+    },
+    "calls-only-complete": {
+      "internet": "0 GB",
+      "slug": "calls-only-complete",
+      "callLimit": 300
+    },
+    "2-gb-complete": {
+      "internet": "2 GB",
+      "slug": "2-gb-complete",
+      "callLimit": 400
+    },
+    "6-gb-complete": {
+      "internet": "6 GB",
+      "slug": "6-gb-complete"
+    },
+    "20-gb-complete": {
+      "internet": "20 GB",
+      "slug": "20-gb-complete"
+    },
+    "50-gb-complete": {
+      "internet": "50 GB",
+      "slug": "50-gb-complete"
+    },
+    "100-gb-complete": {
+      "internet": "100 GB",
+      "slug": "100-gb-complete",
+      "international": true
+    }
+  },
+  "subscriptions": {
+    "one-year": {
+      "title": "1 jaar (+ €1)",
+      "slug": "one-year"
+    },
+    "two-year": {
+      "title": "2 jaar",
+      "slug": "two-year"
+    }
+  },
+  "completeStatuses": {
+    "not-complete": {
+      "slug": "not-complete"
+    },
+    "mobile-complete": {
+      "slug": "mobile-complete"
+    },
+    "full-complete": {
+      "slug": "full-complete"
+    }
+  }
+}

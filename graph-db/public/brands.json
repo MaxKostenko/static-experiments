@@ -1,0 +1,17 @@
+{
+  "_embedded": {
+    "brands": [
+      {
+        "name": "KPN",
+        "_links": {
+          "self": {
+            "href": "/brands/KPN"
+          },
+          "products": {
+            "href": "/products.json"
+          }
+        }
+      }
+    ]
+  }
+}

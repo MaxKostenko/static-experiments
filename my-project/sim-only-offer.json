@@ -1,0 +1,527 @@
+[
+  {
+    "id": "simonly-id",
+    "slug": "simonly",
+    "name": "simonly",
+    "productType": "SIMONLY_BUNDLE",
+    "options": [
+      {
+        "id": "SUBSCRIPTION",
+        "name": "SUBSCRIPTION",
+        "products": [
+          {
+            "id": "1951376807-AQ-12",
+            "slug": "budget",
+            "name": "Budget",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 16,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "EU",
+              "storage": 0,
+              "volume": 150
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1951376807-AQ-24",
+            "slug": "budget",
+            "name": "Budget",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 16,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 2.5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "EU",
+              "storage": 0,
+              "volume": 150
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1951363155-AQ-12",
+            "slug": "basis",
+            "name": "Basis Mobiel",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 25,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 2.5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "EU",
+              "storage": 1000,
+              "volume": 200
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1951363155-AQ-24",
+            "slug": "basis",
+            "name": "Basis Mobiel",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 25,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "EU",
+              "storage": 1000,
+              "volume": 200
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1551358090-AQ-12",
+            "slug": "zorgeloos-instap",
+            "name": "Zorgeloos Instap",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 40,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 10.5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "EU",
+              "storage": 2000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1551358090-AQ-24",
+            "slug": "zorgeloos-instap",
+            "name": "Zorgeloos Instap",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 40,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 13,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "EU",
+              "storage": 2000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "751358035-AQ-12",
+            "slug": "zorgeloos-standaard",
+            "name": "Zorgeloos Standaard",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 45,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 11.5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "EU",
+              "storage": 10000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "751358035-AQ-24",
+            "slug": "zorgeloos-standaard",
+            "name": "Zorgeloos Standaard",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 45,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 14,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "EU",
+              "storage": 10000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "951357929-AQ-12",
+            "slug": "zorgeloos-premium",
+            "name": "Zorgeloos Premium",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 55,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 14.5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "EU",
+              "storage": 25000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "951357929-AQ-24",
+            "slug": "zorgeloos-premium",
+            "name": "Zorgeloos Premium",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 55,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 17,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "EU",
+              "storage": 25000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1051272219-AQ-12",
+            "slug": "zorgeloos-premium-plus",
+            "name": "Zorgeloos Premium Plus",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 109,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 5,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 12,
+              "subscriptionRoaming": "US",
+              "storage": 50000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1051272219-AQ-24",
+            "slug": "zorgeloos-premium-plus",
+            "name": "Zorgeloos Premium Plus",
+            "productType": "SUBSCRIPTION",
+            "price": {
+              "type": "RECURRING",
+              "value": 109,
+              "currency": "EUR"
+            },
+            "discount": {
+              "value": 10,
+              "currency": "EUR"
+            },
+            "specifications": {
+              "duration": 24,
+              "subscriptionRoaming": "US",
+              "storage": 50000,
+              "volume": -1
+            },
+            "options": [
+              {
+                "id": "VAS",
+                "name": "VAS",
+                "products": [
+                  {
+                    "id": "1261987530-AQ",
+                    "slug": "1261987530-AQ",
+                    "name": "Spotify",
+                    "productType": "SPOTIFY",
+                    "price": {
+                      "type": "RECURRING",
+                      "value": "8.99",
+                      "currency": "EUR"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "defaultProducts": [
+          "1951363155-AQ-24"
+        ]
+      },
+      {
+        "id": "ADDITIONAL_COSTS",
+        "name": "ADDITIONAL_COSTS",
+        "products": [
+          {
+            "id": "873357",
+            "name": "3-in-1 SIM-kaart",
+            "productType": "SIMCARD",
+            "price": {
+              "type": "ONE_TIME",
+              "value": 0,
+              "currency": "EUR"
+            }
+          },
+          {
+            "id": "AANSLUITKOSTEN",
+            "slug": "aansluitkosten",
+            "name": "Aansluitkosten",
+            "productType": "ACTIVATION",
+            "price": {
+              "type": "ONE_TIME",
+              "value": 25,
+              "currency": "EUR"
+            }
+          }
+        ],
+        "defaultProducts": [],
+        "mandatoryProducts": [
+          "873357",
+          "AANSLUITKOSTEN"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "_embedded": {
+    "subscriptions": [
+      {
+        "data": "50 GB",
+        "description": "Onbeperkt bel/sms",
+        "price": "79 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      },
+      {
+        "data": "25 GB",
+        "description": "Onbeperkt bel/sms",
+        "price": "36 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      },
+      {
+        "data": "0 GB",
+        "description": "150 bel/sms",
+        "price": "13,50 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      },
+      {
+        "data": "1 GB",
+        "description": "200 bel/sms",
+        "price": "20 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      },
+      {
+        "data": "3 GB",
+        "description": "Onbeperkt bel/sms",
+        "price": "26 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      },
+      {
+        "data": "10 GB",
+        "description": "Onbeperkt bel/sms",
+        "price": "30 euros",
+        "_links": {
+          "subscriptions": {
+            "href": "http://172.26.188.77:8080/brands/KPN/products/mobiel/options/sim_only/subscriptions/2"
+          }
+        }
+      }
+    ]
+  }
+}

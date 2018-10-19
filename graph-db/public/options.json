@@ -1,0 +1,28 @@
+{
+  "_embedded": {
+    "options": [
+      {
+        "type": "sim_only",
+        "_links": {
+          "self": {
+            "href": "/brands/KPN/products/mobiel/options/sim_only"
+          },
+          "subscriptions": {
+            "href": "/subscriptions.json"
+          }
+        }
+      },
+      {
+        "type": "phone_and_sim",
+        "_links": {
+          "self": {
+            "href": "/brands/KPN/products/mobiel/options/phone_and_sim"
+          },
+          "subscriptions": {
+            "href": "/subscriptions.json"
+          }
+        }
+      }
+    ]
+  }
+}
